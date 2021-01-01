@@ -46,7 +46,7 @@ social-network-links:
   #patreon: 
   #youtube: 
 #  reddit: 
-#  linkedin: https://www.linkedin.com/in/brian-huang-b5238817b/
+  linkedin: https://www.linkedin.com/in/brian-huang-b5238817b/
 #  xing: 
 #  stackoverflow: 
 #  snapchat: 
@@ -95,14 +95,14 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#2E5CB8"
+navbar-col: "#e6ecff"
 navbar-text-col: "#404040"
 navbar-border-col: "#2E5CB8"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
+footer-col: "#e6ecff"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
