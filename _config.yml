@@ -15,10 +15,11 @@ author: Brian Junen Huang
 
 navbar-links:
   About Me: "aboutme"
+  Projects: "projects"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Test: 
+    - Test: 
+  
 
 # --- Logo --- #
 
@@ -46,7 +47,7 @@ social-network-links:
   #patreon: 
   #youtube: 
 #  reddit: 
-  linkedin: https://www.linkedin.com/in/brian-huang-b5238817b/
+  linkedin: /brian-huang-b5238817b/
 #  xing: 
 #  stackoverflow: 
 #  snapchat: 
