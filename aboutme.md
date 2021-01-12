@@ -2,6 +2,8 @@
 layout: page
 title: About me
 ---
+I am currently a part-time **computer science tutor** working at [Juni Learning](https://junilearning.com/) where I teach Python, Java, and Scratch to seven kids on a weekly basis, adapting to their unique learning styles and needs. 
+
 I am currently a 2nd year undergraduate student at the **University of California, San Diego** where I am majoring in **Data Science** and minoring in **Psychology and Mathematics**. 
 
 Outside of the classroom, I am an [NCAA athlete](https://ucsdtritons.com/sports/mens-rowing/roster/brian-huang/10577) on the Division 1 Rowing team at the **University of California, San Diego**. 
@@ -10,4 +12,4 @@ I was born in [Singapore](https://en.wikipedia.org/wiki/Singapore), but spent mo
 
 In my spare time I enjoy **biking**, **running**, **tennis**, and editing videos/learning new ways to create media.
 
-My most recent [**Resume**](Brian_Huang_Resume.pdf).
+My most recent [**Resume**](https://github.com/brianjhuang/brianjhuang.github.io/blob/master/Brian_Huang_Resume.pdf).
