@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
+I am currently a 2nd year undergraduate student at the **University of California, San Diego** where I am majoring in **Data Science** and minoring in **Psychology and Mathematics**. 
 
-My name is Inigo Montoya. I have the following qualities:
+Outside of the classroom, I am an [NCAA athlete](https://ucsdtritons.com/sports/mens-rowing/roster/brian-huang/10577) on the Division 1 Rowing team at the **University of California, San Diego**. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I was born in [Singapore](https://en.wikipedia.org/wiki/Singapore), but spent most of my life growing up in different areas of Texas, including San Antonio, Amarillo, and [Dallas](https://en.wikipedia.org/wiki/Highland_Park,_Texas) where I currently call home. 
 
-What else do you need?
+In my spare time I enjoy **biking**, **running**, **tennis**, and editing videos/learning new ways to create media.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My most recent [**Resume**](Brian_Huang_Resume.pdf).
