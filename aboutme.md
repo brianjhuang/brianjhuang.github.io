@@ -10,6 +10,6 @@ Outside of the classroom, I am an [NCAA athlete](https://ucsdtritons.com/sports/
 
 I was born in [Singapore](https://en.wikipedia.org/wiki/Singapore), but spent most of my life growing up in different areas of Texas, including San Antonio, Amarillo, and [Dallas](https://en.wikipedia.org/wiki/Highland_Park,_Texas) where I currently call home. 
 
-In my spare time I enjoy **biking**, **running**, **tennis**, and editing videos/learning new ways to create media.
+In my spare time I enjoy **biking**, **running**, **tennis**, taking photos and creating videos, and travelling with friends and family.
 
 My most recent [**Resume**](https://github.com/brianjhuang/brianjhuang.github.io/blob/master/Brian_Huang_Resume.pdf).
