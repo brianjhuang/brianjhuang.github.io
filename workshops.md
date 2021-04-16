@@ -10,6 +10,7 @@ h2   {position:"relative";
 
 <center>
 <h2> • Introduction to Python and Pandas </h2>
+    <a href = "https://github.com/brianjhuang/datahacks2021-python-pandas-workshop"> Link to slides here! </a>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Y_iG-UCzcwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
 </center>
