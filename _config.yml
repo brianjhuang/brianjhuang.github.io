@@ -16,9 +16,7 @@ author: Brian Junen Huang
 navbar-links:
   About Me: "aboutme"
   Projects: "projects"
-  Resources:
-    - Test: 
-    - Test: 
+  Workshops: "workshops"
   
 
 # --- Logo --- #
