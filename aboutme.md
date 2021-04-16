@@ -12,4 +12,4 @@ I was born in [Singapore](https://en.wikipedia.org/wiki/Singapore), but spent mo
 
 In my spare time I enjoy **biking**, **running**, playing **tennis**, taking photos and creating videos, and travelling with friends and family.
 
-My most recent [**Resume**](https://github.com/brianjhuang/brianjhuang.github.io/blob/master/Brian%20Huang%20Resume.pdf).
+My most recent [**Resume**](https://github.com/brianjhuang/brianjhuang.github.io/blob/master/Brian%20J%20Huang%20Resume.pdf).
