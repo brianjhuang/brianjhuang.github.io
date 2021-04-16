@@ -16,8 +16,8 @@ subtitle:
   average plays per song, and average listeners per country.
   * Analyzed 2015 - 2019 Billboard Hot 100 to see what song features could possibly generate a top hit song.
 * **Online Shopping Platform**
- * Coded using Object-Oriented Programming and a naive implementation of Stacks and Queues.
- * Program creates and logs a history of product transactions between users, stores, and warehouses. Users can either be
+  * Coded using Object-Oriented Programming and a naive implementation of Stacks and Queues.
+  * Program creates and logs a history of product transactions between users, stores, and warehouses. Users can either be
   premium or standard and products can either be standard, limited, or special. 
 * [**Rowing Database**](https://github.com/brianjhuang/rowing_database):
   * Constructed relational database storing information about rowing teams in the central region (Texas, Oklahoma, etc.)
