@@ -10,12 +10,12 @@ subtitle:
 * [**Enqueue**](https://github.com/brianjhuang/SDHacks-2021):
   * A web application created to speed up efficacy of vaccine rollout at UC San Diego. A queue system that allows users to schedule their appointments ahead of time to encourage social distancing when receiving vaccines.
   * Coded at the backend using Flask and MySQL. Front end was coded using React. Was submitted at SD Hacks.
-* [**Spotify Music Library Trends**]:
+* **Spotify Music Library Trends**:
   * Identified correlations between song features and popularity/playback among Spotify audiences using pandas and numpy.
   * Generated visualizations of song features (such as tempo, valence, genre, etc) and their correlation between popularity,
   average plays per song, and average listeners per country.
   * Analyzed 2015 - 2019 Billboard Hot 100 to see what song features could possibly generate a top hit song.
-* [**Online Shopping Platform**]
+* **Online Shopping Platform**
  * Coded using Object-Oriented Programming and a naive implementation of Stacks and Queues.
  * Program creates and logs a history of product transactions between users, stores, and warehouses. Users can either be
   premium or standard and products can either be standard, limited, or special. 
