@@ -6,7 +6,7 @@ I am currently a part-time **computer science tutor** working at [Juni Learning]
 
 I am currently a 2nd year undergraduate student at the **University of California, San Diego** where I am majoring in **Data Science** and minoring in **Psychology and Mathematics**. 
 
-Outside of the classroom, I am an [NCAA athlete](https://ucsdtritons.com/sports/mens-rowing/roster/brian-huang/10577) on the Division 1 Rowing team at the **University of California, San Diego**. 
+Outside of the classroom, I am an [NCAA athlete](https://ucsdtritons.com/sports/mens-rowing/roster/brian-huang/10577) on the Division 1 Rowing team at the **University of California, San Diego**. I am also part of UC San Diego's [Data Science Student Society](https://ds3.ucsd.edu/) (DS3). I was part of the Sponsorship and Marketing committee in 2020/2021 school year and am currently Workshop Lead and Project Lead for the 2021/2022 school year.
 
 I was born in [Singapore](https://en.wikipedia.org/wiki/Singapore), but spent most of my life growing up in different areas of Texas, including San Antonio, Amarillo, and [Dallas](https://en.wikipedia.org/wiki/Highland_Park,_Texas) where I currently call home. 
 
