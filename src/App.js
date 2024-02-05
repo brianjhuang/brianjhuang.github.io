@@ -1,25 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import './App.css'; // Import your app-specific CSS file
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="app">
+      <div className="video-container">
+        <video autoPlay loop muted className="video-background">
+          <source src="assets/LeBlancCafe.mp4" type="video/mp4" />
+          {/* Add additional source tags for other video formats if desired */}
+          Your browser does not support the video tag.
+        </video>
+      </div>
+      {/* Menu */}
+      <div className="menu">
+        <ul>
+          <li><a href="#about">About</a></li>
+          <li><a href="#photos">Photos</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </div>
+      {/* Add other components and content here */}
     </div>
   );
-}
+};
 
 export default App;
